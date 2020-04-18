@@ -1,0 +1,14 @@
+C:\Users\kalim\OneDrive\Desktop\UI\App\Legacy Demo App\obj\Debug\Legacy_Demo_App.Form1.resources
+C:\Users\kalim\OneDrive\Desktop\UI\App\Legacy Demo App\obj\Debug\Legacy_Demo_App.Properties.Resources.resources
+C:\Users\kalim\OneDrive\Desktop\UI\App\Legacy Demo App\obj\Debug\Legacy Demo App.csproj.GenerateResource.cache
+C:\Users\kalim\OneDrive\Desktop\UI\App\Legacy Demo App\obj\Debug\Legacy Demo App.csproj.CoreCompileInputs.cache
+C:\Users\kalim\OneDrive\Desktop\UI\App\Legacy Demo App\obj\Debug\Legacy Demo App.csprojAssemblyReference.cache
+C:\Users\kalim\OneDrive\Desktop\UI\App\Legacy Demo App\bin\Debug\Invoice Managment.exe.config
+C:\Users\kalim\OneDrive\Desktop\UI\App\Legacy Demo App\bin\Debug\Invoice Managment.exe.manifest
+C:\Users\kalim\OneDrive\Desktop\UI\App\Legacy Demo App\bin\Debug\Invoice Managment.application
+C:\Users\kalim\OneDrive\Desktop\UI\App\Legacy Demo App\bin\Debug\Invoice Managment.exe
+C:\Users\kalim\OneDrive\Desktop\UI\App\Legacy Demo App\bin\Debug\Invoice Managment.pdb
+C:\Users\kalim\OneDrive\Desktop\UI\App\Legacy Demo App\obj\Debug\Invoice Managment.exe.manifest
+C:\Users\kalim\OneDrive\Desktop\UI\App\Legacy Demo App\obj\Debug\Invoice Managment.application
+C:\Users\kalim\OneDrive\Desktop\UI\App\Legacy Demo App\obj\Debug\Invoice Managment.exe
+C:\Users\kalim\OneDrive\Desktop\UI\App\Legacy Demo App\obj\Debug\Invoice Managment.pdb
